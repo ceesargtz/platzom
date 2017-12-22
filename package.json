@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "ceesargtz/platzom",
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
   "main": "lib/src/platzom.js",
